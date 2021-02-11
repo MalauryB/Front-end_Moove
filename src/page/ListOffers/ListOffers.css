@@ -1,0 +1,34 @@
+.marginTop100{
+    margin-top: 100px;
+}
+
+.paddingLeft5{
+    padding-left: 5%;
+}
+
+.filterZone{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 16%;
+    height: 651px;
+}
+
+.inputCarac{
+    background-color: white !important;
+}
+
+.marginTop10{
+    margin-top: 10px;
+}
+
+.marginTop30{
+    margin-top: 30px;
+}
+
+.buttonCenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
